@@ -2,9 +2,13 @@
 Dynamic Pricing is an application of Data Science that involves adjusting product or service prices based on various factors in real time. It is employed by businesses to optimize their revenue and profitability by setting flexible prices that respond to market demand, customer behaviour, and competitor pricing.
 The aim is to maximize revenue and profitability by pricing items at the right level that balances supply and demand dynamics. It allows businesses to adjust prices dynamically based on factors like time of day, day of the week, customer segments, inventory levels, seasonal fluctuations, competitor pricing, and market conditions.
 
+
 Prerequisites:
+
 Python IDE
+
 Jupyter Notebook
+
 So to create a dynamic pricing strategy, we need to have a dataset based on:
 
 1.historical sales data
